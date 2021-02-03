@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src="/index.png"/>
 
-<!--
-**akose73/akose73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Please check my [gist](https://gist.github.com/akose73)
 
-Here are some ideas to get you started:
+## Goals for 2021
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to learn Python 3 with medium level and make own server manager application as CPanel.
+
+## What interests me
+* Docker
+* Golang
+* Python
+* AWS
+* ... and the rest which DevOps :sunglasses:

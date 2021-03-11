@@ -8,7 +8,7 @@ I want to learn Python 3 with medium level and make own server manager applicati
 
 ## What interests me
 * Docker
-* Golang
-* Python
+* Python3
 * AWS
+* Bash
 * ... and the rest which DevOps :sunglasses:

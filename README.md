@@ -1,6 +1,6 @@
 <img src="/index.png"/>
 
-Please check my [gist](https://gist.github.com/akose73)
+My [gists](https://gist.github.com/akose73)
 
 ## Goals for 2021
 
